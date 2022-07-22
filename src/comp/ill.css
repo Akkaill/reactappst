@@ -1,0 +1,79 @@
+.nah{
+    border-top: 4px solid red;
+    width: 800px;
+    margin-left: 2.5rem;
+    
+  
+  }
+  .get{
+      border-top: 4px solid green;
+      width: 800px;
+      margin-left: 2.5rem;
+  }
+  
+  
+  ul {
+      text-align: center;
+      text-transform: uppercase;
+      list-style: none;
+      justify-content: center;
+      display: flex;
+      font-size: 1.5em;
+      margin-top: 1rem;
+  
+  
+  }
+  li{
+      display: flex;
+      background-color: rgb(157, 199, 190);
+      padding: 1rem;
+      justify-content: space-between;
+      width: 800px;
+      color: aliceblue;
+  
+  
+  
+  }
+  
+  
+  label {
+      font-size: 20px;
+      display: block;
+      margin: 10px 0;
+  
+  }
+  
+  input {
+      width: 500px;
+      padding: 20px;
+  }
+  
+  .button {
+      font-size: 20px;
+      padding: 10px;
+      margin-top: 40px;
+      background-color: rgb(194, 226, 181);
+      color: aliceblue;
+      cursor: pointer;
+      width: 500px;
+      border: none;
+  
+  
+  
+  
+  
+  
+  }
+  
+  .button:hover {
+      background-color:rgb(139, 105, 64);
+  
+  }
+  
+  
+  
+  .form {
+      display: flex;
+      justify-content: center;
+  }
+  
